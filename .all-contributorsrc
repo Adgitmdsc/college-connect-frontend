@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "2devyank",
+      "name": "Devyank Nagpal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78840243?v=4",
+      "profile": "https://github.com/2devyank",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "college-connect-frontend",
+  "projectOwner": "Adgitmdsc",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
