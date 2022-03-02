@@ -6,6 +6,15 @@
   "commit": false,
   "contributors": [
     {
+      "login": "chaudharypraveen98",
+      "name": "Praveen Chaudhary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43620425?v=4",
+      "profile": "https://chaudharypraveen98.github.io",
+      "contributions": [
+        "maintenance"
+      ]
+    }, 
+    {
       "login": "2devyank",
       "name": "Devyank Nagpal",
       "avatar_url": "https://avatars.githubusercontent.com/u/78840243?v=4",
@@ -14,6 +23,7 @@
         "maintenance"
       ]
     }
+    
   ],
   "contributorsPerLine": 7,
   "projectName": "college-connect-frontend",
