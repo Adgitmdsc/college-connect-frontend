@@ -15,6 +15,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/2devyank"><img src="https://avatars.githubusercontent.com/u/78840243?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Devyank Nagpal</b></sub></a><br /><a href="#maintenance-2devyank" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://chaudharypraveen98.github.io"><img src="https://avatars.githubusercontent.com/u/43620425?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Praveen Chaudhary</b></sub></a><br /><a href="#maintenance-chaudharypraveen98" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://uday-yadav.web.app/"><img src="https://avatars.githubusercontent.com/u/49728410?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Uday Yadav</b></sub></a><br /><a href="#maintenance-dev117uday" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
