@@ -1,0 +1,124 @@
+.first{
+    padding: 80px 80px;
+}
+.sign{
+    text-align: center;
+}
+.sign h1{
+    font-size: 48px;
+}
+.sign p{
+    font-size: 20px;
+    font-weight: 300;
+}
+.sign button{
+    padding: 15px 30px;
+    border-radius: 5px;
+    border: none;
+    background: blue;
+    color: white;
+    font-size: 20px;
+}
+.sec h2{
+    color: grey;
+}
+.sec{
+    padding: 80px 240px;
+    background: rgb(240, 216, 209);
+}
+.about{
+    text-align: center;
+}
+.about h1{
+    font-size: 48px;
+    font-weight: 500;
+}
+.about p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.third h2{
+    color: grey;
+}
+.third{
+    padding: 80px 240px;
+    /* background: rgb(240, 216, 209); */
+}
+.join{
+    text-align: center;
+}
+.join h1{
+    font-size: 48px;
+    font-weight: 500;
+}
+.join p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.boxes{
+    display: flex;
+    gap: 20px;
+}
+.right{
+    width: 500px;
+    height: 200px;
+    border: 0.1px solid rgb(223, 161, 161);
+    border-radius: 10px;
+    padding: 40px 40px;
+}
+.left{
+    width: 500px ;
+    height: 200px;
+    border: 0.1px solid rgb(223, 161, 161);
+    border-radius: 10px;
+    padding: 40px 40px;
+}
+.four{
+    padding: 140px 80px;
+    background: rgb(108, 127, 230);
+    text-align: center;
+    color: white;
+}
+.four h1{
+    font-size: 48px;
+    font-weight: 500;
+}
+.speaker{
+    display: flex;
+    gap:20px;
+}
+.r{
+    width: 500px;
+    height: 200px;
+    /* border: 0.1px solid rgb(223, 161, 161); */
+    border-radius: 10px;
+    padding: 40px 40px;
+    text-align: center;
+}
+.m{
+    width: 500px;
+    height: 200px;
+    /* border: 0.1px solid rgb(223, 161, 161); */
+    border-radius: 10px;
+    padding: 40px 40px;
+    text-align: center;
+}
+.l{
+    width: 500px;
+    height: 200px;
+    /* border: 0.1px solid rgb(223, 161, 161); */
+    border-radius: 10px;
+    padding: 40px 40px;
+    text-align: center;
+}
+.five{
+    padding: 50px 50px;
+   
+}
+.five h1{
+    font-size: 48px;
+    font-weight: 500;
+    text-align: center;
+}
