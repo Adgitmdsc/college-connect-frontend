@@ -1,0 +1,13 @@
+body{overflow-x: hidden;}
+
+@keyframes news-slider-animation{
+    from{ margin-left: -100%; }
+    to{ margin-left: 100%; }
+}
+
+.news-bar{
+    animation: news-slider-animation 30s infinite linear;
+    width: 100%;
+    background-color: inherit;
+    color: inherit;
+}

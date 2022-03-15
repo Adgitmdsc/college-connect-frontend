@@ -17,7 +17,7 @@ export default function Landing() {
                     textAlign: `center`,
                     marginBottom: `30px`
                 }}>
-                College Connect
+                ADGITM Connect
             </Typography>
             <Box sx={{
                 display: 'flex',
@@ -59,7 +59,7 @@ export default function Landing() {
                     <Typography variant="body1">
                         <ul>
                             <li><a href='/home'>Home</a></li>
-                            <li><a href='/club'>Club</a></li>
+                            <li><a href='/club/gdsc'>Club</a></li>
                             <li><a href='/profile'>Profile</a></li>
                             <li><a href='/signup'>Signup</a></li>
                         </ul>
