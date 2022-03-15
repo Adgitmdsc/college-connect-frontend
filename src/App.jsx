@@ -1,6 +1,6 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Footer from './components/Footer';
+import Foot from './components/Foot';
 import Navba from './components/Navba';
 import Club from './Pages/Club';
 import Home from './Pages/Home';
@@ -21,7 +21,7 @@ function App() {
         </Routes>
 
         <Routes >
-          <Route path="/" element={<Home />} exact />
+          {/* <Route path="/" element={<Home />} exact /> */}
       <Route path="/club/gdsc" element={<GDSC />} exact/>
           <Route path="/sign" element={<Signup />} exact />
           <Route path="/profile" element={<Profile />} exact />
@@ -29,7 +29,7 @@ function App() {
 
         </Routes>
       </div>
-      <Footer />
+      <Foot />
     </BrowserRouter>
   )
 }
