@@ -76,18 +76,18 @@ export class GDSC extends Component {
              </div>
              </div>
           <div className="four">
-         
-            <div>
-            <h1>
+          <h1>
             
             Hear From Our Member
           </h1>
+            <div>
+           
             <div className='speaker'>
               <div className='l'>
                 <img style={{width:"160px",height:"160px",borderRadius:"50%"}} src="https://avatars.githubusercontent.com/u/78840243?v=4" alt="" />
               
               <p>It helped me grow my confidence in technical writing and guided me to organize inclusive events that benefit people from all backgrounds.</p>
-              <br />
+              {/* <br /> */}
               <span>Devyank Nagpal , Core Team Member</span>           
               </div>
               <div className='m'>
@@ -99,7 +99,7 @@ export class GDSC extends Component {
               <div className='r'>
                 <img  style={{width:"160px",height:"160px",borderRadius:"50%"}} src="https://avatars.githubusercontent.com/u/43620425?v=4" alt="" />
              <p>Thanks to the program I was able to meet amazing people from all over the world and build my network</p>
-             <br />
+             {/* <br /> */}
              <span>Praveen Choudary , Core Team Member</span>
               </div>
             </div>
